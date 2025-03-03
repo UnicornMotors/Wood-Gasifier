@@ -1,0 +1,1 @@
+- [Why gas should be extracted, not blown in](https://youtu.be/2h0kKXmk6bs)
